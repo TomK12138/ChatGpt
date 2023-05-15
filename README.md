@@ -1,2 +1,2 @@
-# ChatGpt
+# ChatGpt-Plugin
 GPT-Plugin
